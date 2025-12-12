@@ -78,7 +78,7 @@ Tüm LeetCode çözümlerimi kategorilere ayrılmış şekilde burada paylaşıy
 
 ## 📫 İletişim
 
-- **LinkedIn:** https://www.linkedin.com/in/semihtemur655  
+- **LinkedIn:** https://www.linkedin.com/in/semih-temur-8a9265222/ 
 - **E-mail:** semihtemur655@gmail.com
 
 ---
