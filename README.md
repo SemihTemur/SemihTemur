@@ -30,7 +30,8 @@ Backend ağırlıklı çalışıyorum ve Java & Spring Boot ekosisteminde üretm
 
 ## 📈 LeetCode İstatistiklerim
 
-[![Semih’s LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=semihtemur655&theme=dark)](https://leetcode.com/u/semihtemur655/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/semihtemur655?theme=dark&font=Roboto&border=0)](https://leetcode.com/u/semihtemur655/)
+
 
 ---
 
