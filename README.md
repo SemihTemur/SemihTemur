@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Semih Temur
 
-**Yazılım Mühendisi | Java Backend Developer | Spring Boot | Mikroservis Mimarisi | React**
+**Software Engineer | Java Backend Developer | Spring Boot | Microservices Architecture | React**
 
 I am a developer who continuously improves myself through modern software development, clean code, microservices architecture, and algorithm practice.
 I primarily work on the backend and enjoy developing solutions within the Java & Spring Boot ecosystem.
@@ -9,22 +9,22 @@ I primarily work on the backend and enjoy developing solutions within the Java &
 
 ## 🧑‍💻 About Me
 
-- Java + Spring Boot ile ölçeklenebilir, güvenli ve yüksek performanslı backend servisleri geliştiriyorum.  
-- Mikroservis mimarisi, dağıtık yapı ve güvenlik (JWT, RBAC) konularında tecrübeye sahibim.  
-- React ile modern arayüzler geliştiriyorum.  
-- Düzenli olarak **LeetCode** çözüyorum ve çözümlerimi bir repoda topluyorum.  
-- Sürekli öğrenme ve en iyi pratikleri uygulamaya büyük önem veriyorum.
+- I develop scalable, secure, and high-performance backend services using Java and Spring Boot. 
+- I have experience in microservices architecture, distributed systems, and security (JWT, RBAC).
+- I build modern front-end interfaces with React. 
+- I regularly solve problems on LeetCode and organize my solutions in a repository.
+- I place great importance on continuous learning and applying best practices.
 
 ---
 
 ## 🔥 Areas of Interest
 
-- Mikroservis mimarisi  
-- Dağıtık sistemler  
-- Security, Authorization & Authentication  
-- Redis ile token & cache yönetimi  
-- Docker, CI/CD, cloud-native yaklaşımlar  
-- Algoritma & problem çözme (LeetCode)
+- Microservices Architecture  
+- Distributed Systems  
+- Security, Authorization & Authentication
+- Redis for Token & Cache Management  
+- Docker, CI/CD, Cloud-Native Approaches
+- Algorithms & Problem Solving (LeetCode)
 
 ---
 
