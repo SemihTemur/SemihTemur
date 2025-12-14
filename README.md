@@ -1,13 +1,13 @@
-# 👋 Merhaba, Ben Semih Temur
+# 👋 Hello, I’m Semih Temur
 
 **Yazılım Mühendisi | Java Backend Developer | Spring Boot | Mikroservis Mimarisi | React**
 
-Modern yazılım geliştirme, temiz kod, mikroservis mimarileri ve algoritma pratiğiyle kendimi sürekli geliştiren bir geliştiriciyim.  
-Backend ağırlıklı çalışıyorum ve Java & Spring Boot ekosisteminde üretmeyi seviyorum.
+I am a developer who continuously improves myself through modern software development, clean code, microservices architecture, and algorithm practice.
+I primarily work on the backend and enjoy developing solutions within the Java & Spring Boot ecosystem.
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🧑‍💻 About Me
 
 - Java + Spring Boot ile ölçeklenebilir, güvenli ve yüksek performanslı backend servisleri geliştiriyorum.  
 - Mikroservis mimarisi, dağıtık yapı ve güvenlik (JWT, RBAC) konularında tecrübeye sahibim.  
@@ -17,7 +17,7 @@ Backend ağırlıklı çalışıyorum ve Java & Spring Boot ekosisteminde üretm
 
 ---
 
-## 🔥 İlgi Alanlarım
+## 🔥 Areas of Interest
 
 - Mikroservis mimarisi  
 - Dağıtık sistemler  
@@ -28,24 +28,24 @@ Backend ağırlıklı çalışıyorum ve Java & Spring Boot ekosisteminde üretm
 
 ---
 
-## 📈 LeetCode İstatistiklerim
+## 📈 My LeetCode Statistics
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/semihtemur655?theme=dark&font=Roboto&border=0)](https://leetcode.com/u/semihtemur655/)
 
 
 ---
 
-## 📂 Çözdüğüm LeetCode Problemleri
+## 📂 LeetCode Problems I’ve Solved
 
-Tüm LeetCode çözümlerimi kategorilere ayrılmış şekilde burada paylaşıyorum:
+You can find all my LeetCode solutions organized by categories here:
 
 🔗 **https://github.com/SemihTemur/leetcode-solutions**
 
-> Java çözümleri, kategori bazlı klasör yapısı ve açıklamalarla birlikte.
+> Java solutions, categorized folder structure, and explanations included.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 
 ### 🚀 Backend
 - **Java 17+**
@@ -63,12 +63,12 @@ Tüm LeetCode çözümlerimi kategorilere ayrılmış şekilde burada paylaşıy
 - **Vite**
 - **MUI**
 
-### 🗄 Veritabanı
+### 🗄 Database
 - **PostgreSQL**
 - **MySQL**
 - **MongoDB**
 
-### ⚙️ Araçlar & DevOps
+### ⚙️ Tools & DevOps
 - **Git & GitHub**
 - **Docker**
 - **Postman**
@@ -76,11 +76,10 @@ Tüm LeetCode çözümlerimi kategorilere ayrılmış şekilde burada paylaşıy
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/semih-temur-8a9265222/ 
 - **E-mail:** semihtemur655@gmail.com
 
 ---
-
-⭐ *Bu profil, ilgilendiğim teknolojileri, yaptığım çalışmaları ve kendimi geliştirme yolculuğumu yansıtmaktadır. Yeni teknolojiler öğrenmeyi, sistem tasarımlarını ve temiz kodu önemsiyorum.*  
+⭐ This profile reflects the technologies I am passionate about, the work I’ve done, and my journey of continuous improvement. I value learning new technologies, system designs, and writing clean code.
